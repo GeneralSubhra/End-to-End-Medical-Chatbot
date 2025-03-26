@@ -1,0 +1,8 @@
+ctransformers==0.2.27
+sentence-transformers==4.0.0
+qdrant-client
+langchain==0.3.21
+flask
+langchain-community
+pypdf
+python-dotenv
