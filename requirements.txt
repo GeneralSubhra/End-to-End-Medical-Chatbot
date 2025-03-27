@@ -10,4 +10,4 @@ huggingface-hub>=0.23.0
 flask
 pypdf
 python-dotenv
-
+pandas
